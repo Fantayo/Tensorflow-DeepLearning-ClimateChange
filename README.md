@@ -12,4 +12,19 @@ Here in the Tensorflow Deep Learning for Climate Issues project, we provide a fu
 
 ## Course Outline
 
-### [Week 1: Deep Learning & TensorFlow Introduction](./Week%20
+### [Week 1: Deep Learning & TensorFlow Introduction](./Week%2001%20-%20Review%20and%20Intro%20to%20Deep%20Learning/)
+Deep learning basics, TensorFlow syntax intro, dense layers, loss functions, etc.
+
+### [Week 2: User Interfaces and Reproducibility](./Week%2002%20-%20Optimization%20and%20Regularization/)
+Regularization techniques, Gradio UI for models, Model reproducibility and more.
+
+### [Week 3: Computer Vision](./Week%2003%20-%20Introduction%20to%20Computer%20Vision/)
+Introduction to computer vision, CNNs image classification, optimization, etc.
+
+### [Week 4: Sequence Modeling Introduction](./Week%2004%20-%20Introduction%20to%20Sequence%20Modelling/)
+Introduction to NLP and sequence modeling with RNNs, text data pipelines, etc.
+
+### [Week 5: Advancing ML Applications](./Week%2005%20-%20Advanced%20ML%20Applications/)
+Forecasting with RNNs, Developing chatbots with Transformers, Object detection with YOLOv5.
+
+### [Week 6: Advanced TensorFlow](./Week%2006%20-%20Advanced%20TensorFlow/)
